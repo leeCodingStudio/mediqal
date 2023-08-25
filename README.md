@@ -1,4 +1,5 @@
 # Mediqal
+- [Notion 포트폴리오](https://morning-collarbone-330.notion.site/MediQa-SpringBoot-02ec2b6e4c1e4e7784d885ff1354cdbb)
 ---
 
 ### 개발 범위
