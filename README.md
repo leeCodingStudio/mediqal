@@ -42,4 +42,3 @@
 **DataBase**
 
 - Oracle
-- DBeaver
