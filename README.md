@@ -42,3 +42,19 @@
 **DataBase**
 
 - Oracle
+
+### 작동 화면
+
+- 메인
+![1](https://github.com/leeCodingStudio/mediqal/assets/115694780/66125b59-8fd8-468d-b554-a405af73f83c)
+
+![2](https://github.com/leeCodingStudio/mediqal/assets/115694780/983166e6-77be-4c87-8465-d2f12de1cf30)
+
+![3](https://github.com/leeCodingStudio/mediqal/assets/115694780/728e596d-9166-4cea-a0ea-3a1e88799a20)
+
+![4](https://github.com/leeCodingStudio/mediqal/assets/115694780/fb5551e7-3e6b-452f-844e-7582f1e84878)
+
+![5](https://github.com/leeCodingStudio/mediqal/assets/115694780/9d2c4acb-40c2-404b-bdca-bf3a18808f4f)
+
+- 관리자
+![10](https://github.com/leeCodingStudio/mediqal/assets/115694780/78f38bfe-408e-43b7-afd5-f110c30961ad)
